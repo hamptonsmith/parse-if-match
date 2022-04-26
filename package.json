@@ -1,0 +1,25 @@
+{
+  "name": "@shieldsbetter/parse-if-match",
+  "version": "0.0.1",
+  "description": "Parse If-Match and If-None-Match headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Hampton Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "deepequal": "0.0.1"
+  },
+  "keywords": [
+      "etag",
+      "http preconditions",
+      "if-match",
+      "if-none-match"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamptonsmith/parse-if-match"
+  },
+  "bugs": "https://github.com/hamptonsmith/parse-if-match/issues"
+}
